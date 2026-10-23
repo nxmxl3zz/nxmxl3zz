@@ -19,7 +19,7 @@
 - 📊 Building data tools: research analytics with **PEA-i** and usage dashboards with **Agent Monitor**.
 - 🧪 My projects ship with tests and documentation: SuperCalc alone runs over 900 tests.
 
-### Tech I work with
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -30,12 +30,18 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
+
+### Also built with
+
+<sub>Tools I've used in my projects, and where you can see them.</sub>
+
+| Project | Tools |
+|---|---|
+| [SuperCalc](https://github.com/nxmxl3zz/SuperCalc) | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"> <img src="https://img.shields.io/badge/Canvas_2D-4B5563?style=flat-square" alt="Canvas 2D"> <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG"> |
+| [PEA-i UPC](https://github.com/nxmxl3zz/pea-i-upc) | <img src="https://img.shields.io/badge/CustomTkinter-2F8F7A?style=flat-square" alt="CustomTkinter"> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake"> <img src="https://img.shields.io/badge/Web_scraping-4B5563?style=flat-square" alt="Web scraping"> |
+| [Agent Monitor](https://github.com/nxmxl3zz/agent-monitor) | <img src="https://img.shields.io/badge/Bubble_Tea-FF5F87?style=flat-square" alt="Bubble Tea"> <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> |
+| Day to day | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"> |
 
 ### Featured projects
 
