@@ -86,11 +86,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img src="./assets/supercalc-phone.png" width="220" alt="SuperCalc on a phone">
-  <br>
-  <sub>SuperCalc on a phone: every exercise, step by step.</sub>
-</p>
