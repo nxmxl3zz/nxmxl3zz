@@ -1,16 +1,4 @@
-<h1 align="center">Hi, I'm Rafael Miranda 👋</h1>
 
-<p align="center">
-  <strong>Systems Engineering student in Colombia.</strong><br>
-  I build math tools, data apps and developer dashboards.
-</p>
-
-<p align="center">
-  <a href="https://supercalc-sooty.vercel.app"><img src="https://img.shields.io/badge/Try-SuperCalc-08c6ab?style=for-the-badge" alt="Try SuperCalc"></a>
-  <a href="https://github.com/nxmxl3zz/agent-monitor"><img src="https://img.shields.io/badge/See-Agent%20Monitor-5b8def?style=for-the-badge" alt="See Agent Monitor"></a>
-</p>
-
----
 
 ### About me
 
