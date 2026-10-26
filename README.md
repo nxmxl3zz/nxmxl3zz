@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td width="55%">
-      <a href="https://github.com/nxmxl3zz/Finarez"><img src="./assets/finarez.png" alt="Finarez home dashboard"></a>
+      <a href="https://github.com/nxmxl3zz/Finarez"><img src="./assets/finarez.png" alt="The Finarez homepage: Maneja tus finanzas como un pro, with the dashboard in a browser and two phones"></a>
     </td>
     <td>
       <h3><a href="https://github.com/nxmxl3zz/Finarez">Finarez</a></h3>
