@@ -41,11 +41,29 @@
 | [SuperCalc](https://github.com/nxmxl3zz/SuperCalc) | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"> <img src="https://img.shields.io/badge/Canvas_2D-4B5563?style=flat-square" alt="Canvas 2D"> <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG"> |
 | [PEA-i UPC](https://github.com/nxmxl3zz/pea-i-upc) | <img src="https://img.shields.io/badge/CustomTkinter-2F8F7A?style=flat-square" alt="CustomTkinter"> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake"> <img src="https://img.shields.io/badge/Web_scraping-4B5563?style=flat-square" alt="Web scraping"> |
 | [Agent Monitor](https://github.com/nxmxl3zz/agent-monitor) | <img src="https://img.shields.io/badge/Bubble_Tea-FF5F87?style=flat-square" alt="Bubble Tea"> <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> |
-| Day to day | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"> |
+| Day to day | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"> |
 
 ### Featured projects
 
 <table>
+  <tr>
+    <td width="55%">
+      <a href="https://github.com/nxmxl3zz/Finarez"><img src="./assets/finarez.png" alt="Finarez home dashboard"></a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/nxmxl3zz/Finarez">Finarez</a></h3>
+      A personal finance app for Colombia and México, in Spanish: accounts, budgets, savings goals, debts, investments, reports and net worth, with annual tax summaries for DIAN and SAT.
+      <br><br>
+      A double-entry ledger with exact money underneath, and each person's data isolated in the database itself.
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
+      <br><br>
+      <a href="https://finarez.app"><strong>Open the app →</strong></a>
+    </td>
+  </tr>
   <tr>
     <td width="55%">
       <a href="https://github.com/nxmxl3zz/SuperCalc"><img src="./assets/supercalc.png" alt="SuperCalc home screen"></a>
