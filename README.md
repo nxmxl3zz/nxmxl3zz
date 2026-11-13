@@ -1,15 +1,15 @@
 <h1 align="center">Rafael Miranda</h1>
 
 <p align="center">
-  Systems Engineering student · building math tools, data apps and developer dashboards
+  Building math tools, finance apps and developer dashboards
 </p>
 
 ### About me
 
-- 🎓 Systems Engineering at the **Universidad Popular del Cesar**.
-- 🧮 Building **SuperCalc**, a math and physics app that shows every step of the solution.
-- 📊 Building data tools: research analytics with **PEA-i** and usage dashboards with **Agent Monitor**.
-- 🧪 My projects ship with tests and documentation: SuperCalc alone runs over 900 tests.
+- 🎓 Systems Engineering student at the **Universidad Popular del Cesar**.
+- 💸 Building **Finarez**, a personal finance app for Colombia, live at [finarez.app](https://finarez.app).
+- 🧮 Building **SuperCalc**, a math and physics app that shows every step of the solution, backed by 924 tests.
+- 📊 Data tools: research analytics with **PEA-i**, and a phone dashboard for Codex and Claude Code usage built on OpenUsage, **Agent Monitor**.
 
 ### Featured projects
 
